@@ -10,7 +10,7 @@
   "author": "alejandro niño",
   "license": "MIT",
   "bin": {
-    "random-str-msg": "./bin/global.js"
+    "random-str-msg-an": "./bin/global.js"
   },
   "preferGlobal": true,
   "dependencies": {
